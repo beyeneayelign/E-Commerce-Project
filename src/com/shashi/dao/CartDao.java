@@ -19,3 +19,7 @@ public interface CartDao{
 	public boolean removeAProduct(String userId,String prodId);
 	
 }
+public void addToCart()
+{
+	//code here
+}
